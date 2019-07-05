@@ -4,6 +4,6 @@ In this portfolio, I provided all of my social media, the stuff that I made, wha
 
 Feel free to check it out: <https://mingtheanlay.github.io/>
 
-Contact me: <mingthean.lay@gmail.com>
+Contact me: 
 
 Forked from @brandonrosage.
